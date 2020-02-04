@@ -13,10 +13,10 @@
 
         <ImageView
             android:id="@+id/icono"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="109dp"
+            android:layout_height="85dp"
             android:layout_weight="1"
-            tools:srcCompat="@tools:sample/avatars" />
+            tools:srcCompat="@drawable/cklicon" />
 
         <TextView
             android:id="@+id/nombreChat"
